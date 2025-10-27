@@ -1,4 +1,4 @@
 # Vinay-kumar
 This is my first git repositery
 <br>
-Author - Vinay kumar
+Author - Vinay kumar (The entrepreneur)
