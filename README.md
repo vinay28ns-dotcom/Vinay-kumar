@@ -1,2 +1,3 @@
 # Vinay-kumar
-This is my first github repositery
+This is my first git repositery
+Author - Vinay kumar
